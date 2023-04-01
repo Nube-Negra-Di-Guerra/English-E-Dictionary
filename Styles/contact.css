@@ -1,0 +1,22 @@
+.about-container{
+    max-width: 70%;
+    line-height: 28px;
+    font-size: 24px;
+}
+
+.email-btn{
+    width: 200px;
+    height: 50px;
+    background-color: mediumblue;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 25px;
+    border: none;
+}
+
+.email-text{
+    text-decoration: none; 
+    color: #E5E1E1;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
